@@ -6,3 +6,4 @@ merge tool test用
 rebase practice用編集
 あえて編集
 STASH練習
+STASH練習(トラック済)
