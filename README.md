@@ -5,3 +5,4 @@ Git動画講座Diff練習用
 merge tool test用
 rebase practice用編集
 あえて編集
+STASH練習
