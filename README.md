@@ -4,4 +4,4 @@ Git動画講座Diff練習用
 さらに変更
 merge tool test用
 rebase practice用編集
-コンフリクト作るために編集
+あえて編集
