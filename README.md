@@ -2,4 +2,4 @@
 Git動画講座Diff練習用
 別の変更
 さらに変更
-割と疲れてきた
+merge tool test用
